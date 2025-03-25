@@ -553,3 +553,365 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.m-auto {
+  margin: auto;
+}
+
+.mb-\[\] {
+  margin-bottom: ;
+}
+
+.mb-\[30px\] {
+  margin-bottom: 30px;
+}
+
+.mt-\[\] {
+  margin-top: ;
+}
+
+.mt-\[50px\] {
+  margin-top: 50px;
+}
+
+.ml-\[-\] {
+  margin-left: -;
+}
+
+.ml-\[-100px\] {
+  margin-left: -100px;
+}
+
+.ml-\[-150px\] {
+  margin-left: -150px;
+}
+
+.ml-\[-250px\] {
+  margin-left: -250px;
+}
+
+.ml-\[-220px\] {
+  margin-left: -220px;
+}
+
+.ml-\[-230px\] {
+  margin-left: -230px;
+}
+
+.ml-\[-210px\] {
+  margin-left: -210px;
+}
+
+.ml-\[-200px\] {
+  margin-left: -200px;
+}
+
+.ml-\[-180px\] {
+  margin-left: -180px;
+}
+
+.ml-\[-140px\] {
+  margin-left: -140px;
+}
+
+.ml-\[-145px\] {
+  margin-left: -145px;
+}
+
+.mt-\[150px\] {
+  margin-top: 150px;
+}
+
+.mt-\[250px\] {
+  margin-top: 250px;
+}
+
+.ml-\[\] {
+  margin-left: ;
+}
+
+.ml-\[50px\] {
+  margin-left: 50px;
+}
+
+.ml-\[30px\] {
+  margin-left: 30px;
+}
+
+.ml-\[25px\] {
+  margin-left: 25px;
+}
+
+.mb-\[50px\] {
+  margin-bottom: 50px;
+}
+
+.mt-\[10px\] {
+  margin-top: 10px;
+}
+
+.mt-\[30px\] {
+  margin-top: 30px;
+}
+
+.mt-\[0px\] {
+  margin-top: 0px;
+}
+
+.mt-\[0\] {
+  margin-top: 0;
+}
+
+.mt-\[5\] {
+  margin-top: 5;
+}
+
+.mt-\[20px\] {
+  margin-top: 20px;
+}
+
+.mt-\[40px\] {
+  margin-top: 40px;
+}
+
+.mb-\[20px\] {
+  margin-bottom: 20px;
+}
+
+.block {
+  display: block;
+}
+
+.flex {
+  display: flex;
+}
+
+.hidden {
+  display: none;
+}
+
+.w-\[590\] {
+  width: 590;
+}
+
+.w-\[590px\] {
+  width: 590px;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[320px\] {
+  width: 320px;
+}
+
+.w-\[300px\] {
+  width: 300px;
+}
+
+.w-\[420px\] {
+  width: 420px;
+}
+
+.w-\[501\] {
+  width: 501;
+}
+
+.w-\[501px\] {
+  width: 501px;
+}
+
+.w-\[400px\] {
+  width: 400px;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.gap-\[100px\] {
+  gap: 100px;
+}
+
+.gap-\[\] {
+  gap: ;
+}
+
+.gap-\[80px\] {
+  gap: 80px;
+}
+
+.gap-\[60px\] {
+  gap: 60px;
+}
+
+.gap-\[0px\] {
+  gap: 0px;
+}
+
+.gap-\[40px\] {
+  gap: 40px;
+}
+
+.gap-\[20px\] {
+  gap: 20px;
+}
+
+.bg-\[\#7711DD\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(119 17 221 / var(--tw-bg-opacity, 1));
+}
+
+.p-\[10px\] {
+  padding: 10px;
+}
+
+.p-\[20px\] {
+  padding: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-\[70px\] {
+  font-size: 70px;
+}
+
+.text-\[40px\] {
+  font-size: 40px;
+}
+
+.text-\[18px\] {
+  font-size: 18px;
+}
+
+.text-\[16px\] {
+  font-size: 16px;
+}
+
+.text-\[45px\] {
+  font-size: 45px;
+}
+
+.text-\[30px\] {
+  font-size: 30px;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.text-\[white\] {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\] {
+  color: ;
+}
+
+.text-\[\#FFFFFF\] {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\#474A57\] {
+  --tw-text-opacity: 1;
+  color: rgb(71 74 87 / var(--tw-text-opacity, 1));
+}
+
+@media (min-width: 768px) {
+  .md\:m-0 {
+    margin: 0px;
+  }
+
+  .md\:m-\[0\] {
+    margin: 0;
+  }
+
+  .md\:m-\[0px\] {
+    margin: 0px;
+  }
+
+  .md\:m-\[\] {
+    margin: ;
+  }
+
+  .md\:m-\[none\] {
+    margin: none;
+  }
+
+  .md\:ml-\[-150px\] {
+    margin-left: -150px;
+  }
+
+  .md\:mt-\[0\] {
+    margin-top: 0;
+  }
+
+  .md\:mt-\[50px\] {
+    margin-top: 50px;
+  }
+
+  .md\:mt-\[250px\] {
+    margin-top: 250px;
+  }
+
+  .md\:block {
+    display: block;
+  }
+
+  .md\:hidden {
+    display: none;
+  }
+
+  .md\:w-\[590px\] {
+    width: 590px;
+  }
+
+  .md\:w-\[420\] {
+    width: 420;
+  }
+
+  .md\:w-\[420px\] {
+    width: 420px;
+  }
+
+  .md\:w-\[501px\] {
+    width: 501px;
+  }
+
+  .md\:flex-row {
+    flex-direction: row;
+  }
+
+  .md\:gap-\[80px\] {
+    gap: 80px;
+  }
+
+  .md\:text-start {
+    text-align: start;
+  }
+
+  .md\:text-\[70px\] {
+    font-size: 70px;
+  }
+
+  .md\:text-\[18px\] {
+    font-size: 18px;
+  }
+
+  .md\:text-\[45px\] {
+    font-size: 45px;
+  }
+
+  .md\:text-\[\] {
+    color: ;
+  }
+}
